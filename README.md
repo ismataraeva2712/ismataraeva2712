@@ -3,9 +3,9 @@
 <!--
 
 
-<img src="https://raw.githubusercontent.com/ismataraeva2712/ismatara2712/master/2.png" alt="full stack developer">
+<img src="https://github.com/ismataraeva2712/ismataraeva2712/blob/main/2.png" alt="full stack developer">
 **ismataraeva2712/ismataraeva2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajesh-barua-0b771a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajesh-barua-0b771a209/" height="30" width="40" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

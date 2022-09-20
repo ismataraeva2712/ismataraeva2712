@@ -1,3 +1,5 @@
+![logo](https://github.com/ismataraeva2712/ismataraeva2712/blob/main/2.png)
+
 <h1 align="center">Hi 👋, I'm Ismat Ara</h1>
 <h3 align="center">Full Stack Developer | React Developer | Front End Developer</h3>
 

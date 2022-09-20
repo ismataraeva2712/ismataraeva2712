@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+
+<img src="https://github.com/ismataraeva2712/ismataraeva2712/blob/main/2.png" alt="Full stack web developer banner">
 **ismataraeva2712/ismataraeva2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

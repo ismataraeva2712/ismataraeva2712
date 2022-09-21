@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismataraeva2712&show_icons=true&locale=en" alt="ismataraeva2712" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismataraeva2712&" alt="ismataraeva2712" /></p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ismataraeva2712&bg_color=0d0e1c&color=dfe208&line=eddb0c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
